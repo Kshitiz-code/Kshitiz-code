@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kshitizgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitiz-gupta-266126193//)](https://www.linkedin.com/in/kshitiz-gupta-266126193/) [![Facebook Badge](https://img.shields.io/badge/-@kshitizgupta-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/kshitizgupta) [![Instagram Badge](https://img.shields.io/badge/-@kshitiz.gupta.125-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/kshitiz.gupta.125)](https://www.instagram.com/kshitiz.gupta.125/)<!--[![Twitter Badge](https://img.shields.io/badge/-@akhilsnair1047-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)  
 *akhilsnair1047/akhilsnair1047* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
- #### ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![] 
+ #### ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) 
  <!-- ![](https://img.shields.io/badge/Azure-%7C-blue)  -->
 
 Know about me :
