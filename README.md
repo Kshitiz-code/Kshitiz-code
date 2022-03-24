@@ -10,7 +10,7 @@
 Know about me :
 
 - 🔭 I’m currently working at Spadelpu as Web Developer
-- 🌱 I’m currently learning Full Stack Web Devlopment, Data Structures & Algorithms.
+- 🌱 I’m currently learning Frontend Web Devlopment, Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on Open Source web Projects.
 - 💬 Ask me about Web related stuffs!
 - 😄 Pronouns: He/His
