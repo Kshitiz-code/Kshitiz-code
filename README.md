@@ -22,13 +22,13 @@ Know about me :
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitiz-code)](https://github.com/Kshitiz-code/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=souravcodeweb&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kshitiz-code&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=souravcodeweb)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kshitiz-code)  
 
-![GitHub metrics](https://metrics.lecoq.io/souravcodeweb)  
+![GitHub metrics](https://metrics.lecoq.io/Kshitiz-code)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=souravcodeweb)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kshitiz-code)  
 
-![Profile views](https://gpvc.arturio.dev/souravcodeweb)  
+![Profile views](https://gpvc.arturio.dev/Kshitiz-code)  
 
