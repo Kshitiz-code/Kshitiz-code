@@ -35,5 +35,3 @@ Know about me :
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kshitiz-code)  
 
-![Profile views](https://gpvc.arturio.dev/Kshitiz-code)  
-
