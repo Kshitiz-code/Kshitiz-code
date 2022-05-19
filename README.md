@@ -18,8 +18,17 @@ Know about me :
 
 ## 🚀 Languages and Tools:
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitiz-code)](https://github.com/Kshitiz-code/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=souravcodeweb&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=souravcodeweb)  
+
+![GitHub metrics](https://metrics.lecoq.io/souravcodeweb)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=souravcodeweb)  
+
+![Profile views](https://gpvc.arturio.dev/souravcodeweb)  
 
