@@ -29,7 +29,6 @@ Know about me :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kshitiz-code&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kshitiz-code)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Kshitiz-code)  
 
