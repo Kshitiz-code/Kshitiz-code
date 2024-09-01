@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Kshitiz Gupta| Programmer | Web Developer| Data science Enthusiast| 
+### I'm Kshitiz Gupta| Programmer | Java Developer| 
 
 [![Linkedin Badge](https://img.shields.io/badge/-kshitizgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitiz-gupta-266126193//)](https://www.linkedin.com/in/kshitiz-gupta-266126193/) [![Facebook Badge](https://img.shields.io/badge/-@kshitizgupta-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/kshitizgupta) [![Instagram Badge](https://img.shields.io/badge/-@kshitix.z-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/kshitix.z)](https://www.instagram.com/kshitix.z/)<!--[![Twitter Badge](https://img.shields.io/badge/-@akhilsnair1047-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)  
 *Kshitiz-code/Kshitiz-code* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -9,7 +9,6 @@
 
 Know about me :
 
-- 🌱 I’m currently learning Frontend Web Devlopment, Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on Open Source web Projects.
 - 💬 Ask me about Web related stuffs!
 - 😄 Pronouns: He/His
