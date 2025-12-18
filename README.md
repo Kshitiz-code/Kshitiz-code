@@ -1,9 +1,6 @@
 ![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430302f3831626234623136353638343031392e363430623630333864313333652e676966](https://github.com/user-attachments/assets/1fab80d0-8bdd-4d81-9755-0fce798f9863)
 
 
- #### ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Java-%7C-yellowgreen) 
- <!-- ![](https://img.shields.io/badge/Azure-%7C-blue)  -->
-
 <h1 align="center">👋 Hey, I'm Kshitiz Gupta!</h1>
 <h3 align="center">🚀 QA Automation Engineer | Java | Selenium | Playwright | Appium | SQL | Postman</h3>
 
